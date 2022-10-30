@@ -20,7 +20,7 @@
 <a href="https://twitter.com/prxthxm09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prxthxm09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pratham-u-383b341a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham-u-383b341a4" height="30" width="40" /></a>
 <a href="https://instagram.com/prxthxm09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prxthxm09" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UCJkSPMErv2wQaI2Ly3SeGeA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="venom plays" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCJkSPMErv2wQaI2Ly3SeGeA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="venom plays" height="30" width="40" /></a>
 <a href="https://discord.gg/Uz9zYFrs4n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Uz9zYFrs4n" height="30" width="40" /></a>
 </p>
 
